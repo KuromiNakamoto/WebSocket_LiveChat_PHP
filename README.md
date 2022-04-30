@@ -10,3 +10,5 @@ Note:
 - Change database info connection in source/socket/database.php file
 
 - Run this command in terminal or command prompt to use : 'php bin/chat_server.php'
+
+Client version : [Client_LiveChat_PHP](https://github.com/NankajiMinato/Client_LiveChat_PHP)
